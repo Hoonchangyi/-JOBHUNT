@@ -9,6 +9,9 @@ https://user-images.githubusercontent.com/79193811/210316218-fb668f0a-9519-4b1e-
 
 * 2022-12 ~ 2023-01.
 
+### 팀원
+
+#### 김민우, 이창훈
 
 ### 상세내용
 
