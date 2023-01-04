@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/79193811/210316218-fb668f0a-9519-4b1e-
 
 ## 프로젝트 기간
 
-* 2022-12 ~ 2021-1.
+* 2022-12 ~ 2023-1.
 
 
 ### 상세내용
@@ -46,10 +46,6 @@ https://user-images.githubusercontent.com/79193811/210316218-fb668f0a-9519-4b1e-
 
 
 ### 깨달은점
-
-* 백엔드만 해온 제가 react를 접해보면서 어떤식으로 렌더링이 되는지 useEffect useState를 어느때 사용하는 지 알 수있었습니다.
-
-* Axios 비동기 통신을 이용하여 GET,POST API를 호출하고 보내는 방식을 알게 되었습니다.
 
 * Restful Api 에서는 Session을 잘 사용하지않고 JWT를 이용하여 로그인을 한다는것을 알게 되었습니다.
 
@@ -90,8 +86,4 @@ public class WebController implements ErrorController {
     }
 }
 </pre></code>
-
-###### 참고자료
-* https://dev-coco.tistory.com/97
-* https://minwoo-it-factory.tistory.com/category/Redis
 
